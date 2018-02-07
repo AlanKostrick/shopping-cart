@@ -7,11 +7,11 @@ Create an **Item** class that models an Item to be purchased. It should contain 
 ### The Cart Class
 Create a `Cart` class that is responsible for managing `items`. `ShopApp` should only manipulate the contents of the cart by calling methods on `Cart`. It should not talk directly to `Item` instances.
 Build out methods that ...
-[ ]add items to the cart
-[ ]**Stretch task** remove items from the cart 
-[ ]display the contents of the cart
-[ ] display the current order in the cart
-[ ] **Stretch task** give the ability to change a particular quantity of an order
+- add items to the cart
+- **Stretch task** remove items from the cart 
+- display the contents of the cart
+- display the current order in the cart
+- **Stretch task** give the ability to change a particular quantity of an order
 
 ### The ShopApp Class
 
@@ -50,4 +50,4 @@ Continue shopping (y/n)? n
 ```
 
 **Stretch task**: 
-[] format your currency using the Number Formatter
+- format your currency using the Number Formatter
